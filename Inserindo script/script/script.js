@@ -1,0 +1,1 @@
+console.log('Adiciondo o escript no Header da aplicação')
